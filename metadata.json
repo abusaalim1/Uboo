@@ -1,0 +1,6 @@
+{
+  "name": "Voice Assistant",
+  "description": "Uboo - Next-Gen Android Voice AI assistant with custom wake words, device control permissions, low-latency spoken conversations, and cloud sync.",
+  "requestFramePermissions": ["microphone", "geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
